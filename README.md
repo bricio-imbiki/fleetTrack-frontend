@@ -63,8 +63,7 @@ FleetTrack is a modern fleet management dashboard frontend built with React, Typ
 
 ## License
 
-This project is for demonstration and educational purposes.
+This project is for my intership in web development at INOVATIC entreprise.
 
 ---
 
-Made with ❤️ for modern
